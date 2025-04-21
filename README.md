@@ -124,48 +124,49 @@
 
 
 ### 나만의 손글씨
+
 폰트 생성 요청 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/폰트생성요청.gif?ref_type=heads" /> 
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/폰트생성요청.gif?ref_type=heads" /> 
 <br />
 
 폰트 생성 완료 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/폰트생성완료.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/폰트생성완료.gif?ref_type=heads" />
 <br /><br />
 
 ### 추억 갤러리
 추억 보관함<br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/추억보관함.gif?ref_type=heads" />
+<img src="\https://github.com/mint130/Memory-Bubble/raw/master/img/추억보관함.gif?ref_type=heads" />
 
 앨범 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/앨범.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/앨범.gif?ref_type=heads" />
 
 엽서<br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/엽서.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/엽서.gif?ref_type=heads" />
 
 <br /><br />
 
 ### 편지
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/편지.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/편지.gif?ref_type=heads" />
 <br /><br />
 
 ### 방울 캘린더
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/캘린더.gif?ref_type=heads"  /> 
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/캘린더.gif?ref_type=heads"  /> 
 <br /><br />
 
 ### 가입
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/초대코드.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/초대코드.gif?ref_type=heads" />
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/가입.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/가입.gif?ref_type=heads" />
 <br /><br />
 
 
 
 ### 로그인(카카오)
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/로그인.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/로그인.gif?ref_type=heads" />
 <br /><br />
 
 ### 로그아웃(카카오)
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/로그아웃.gif?ref_type=heads" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/로그아웃.gif?ref_type=heads" />
 <br /><br />
 
 ### 블루그린 배포
@@ -227,22 +228,22 @@
 ### 기능 명세서
 [📖 기능 명세서](exec/specification.csv)
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/specification1.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/specification1.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/specification2.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/specification2.png?ref_type=heads" width="700" />
 
 <br /><br />
 
 ### ERD 다이어그램
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/erd.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/erd.png?ref_type=heads" width="700" />
 
 
 <br /><br />
 
 ### 시스템 아키텍처
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/architecture.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/architecture.png?ref_type=heads" width="700" />
 
 
 <br /><br />
@@ -258,10 +259,10 @@
 ## ✏ 프로젝트 진행
 
 ### 프로젝트 전체 관리 방법
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/프로젝트관리방법.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/프로젝트관리방법.png?ref_type=heads" width="700" />
 
 ### Git
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/git.gif?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/git.gif?ref_type=heads" width="700" />
 
 <br />
 <br />
@@ -271,15 +272,15 @@
 
 ## 📊 모니터링 통계
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/모니터링.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링2.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/모니터링2.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링3.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/모니터링3.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링4.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/모니터링4.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링5.png?ref_type=heads" width="700" />
+<img src="https://github.com/mint130/Memory-Bubble/raw/master/img/모니터링5.png?ref_type=heads" width="700" />
 <br />
 
 <details>
