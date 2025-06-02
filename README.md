@@ -378,33 +378,33 @@ QA  기간: 2025.04.04 ~ 2025.04.10 <br />
 <table>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="제동균 프로필" />
+      <a href="https://github.com/jegyun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/175270500?v=4" alt="제동균 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="김은영 프로필" />
+      <a href="https://github.com/key9425" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/175270534?v=4" alt="김은영 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="김미경 프로필" />
+      <a href="https://github.com/rmfosem613" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/51354302?v=4" alt="김미경 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="김민주 프로필" />
+      <a href="https://github.com/mint130" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/110026510?v=4" alt="김민주 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="정은아 프로필" />
+      <a href="https://github.com/euna-jeong20" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78011769?v=4" alt="정은아 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="구현진 프로필" />
+      <a href="https://github.com/2jin8" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78083320?v=4" alt="구현진 프로필" />
       </a>
     </td>
   </tr>
